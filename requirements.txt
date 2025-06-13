@@ -10,7 +10,7 @@ leancloud==2.9.0
 pycparser==2.20
 python-dateutil==2.8.1
 qiniu==7.2.2
-requests==2.22.0
+requests==2.32.4
 secure-cookie==0.1.0
 six==1.15.0
 urllib3==1.25.3
