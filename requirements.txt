@@ -13,5 +13,5 @@ qiniu==7.2.2
 requests==2.22.0
 secure-cookie==0.1.0
 six==1.15.0
-urllib3==1.25.3
+urllib3==2.6.3
 Werkzeug==1.0.1
